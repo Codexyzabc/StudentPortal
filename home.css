@@ -1,0 +1,37 @@
+ /* ================================= About Section ==================================== */
+ 
+.diffSection {
+    background: #b9eeee;
+    padding: 2%;
+}
+
+.about-content {
+	display: flex;
+	justify-content: space-evenly;
+    padding: 0 0 100px;
+}
+
+.about-content .side-text {
+	padding: 50px 40px;
+	background: #fff;
+	box-shadow: 2px 0 100px rgba(0,0,0,0.3);
+	border-radius: 5px;
+	text-align: justify;
+	line-height: 22px;
+   width: 40%;
+}
+
+.about-content .side-text h2 {
+	padding: 10px;
+}
+
+.about-content .side-text p {
+	padding: 10px;
+}
+
+.about-content .side-image img {
+	width: 80%;
+   height: 100%;
+	border-radius: 5px;
+}
+
